@@ -1,13 +1,12 @@
 # Visualizing Video Game Industry
-This project is to gain an insight into the 
+This project explores a dataset with information on patients with and without heart disease. The purpose of this is to try to predict the possibility of a heart disease in future patients. 
 
 ## Demo
 
-
-
+![image](https://github.com/LouisThong15/Data-Analysis-Project/assets/134668971/b494e6c1-2dfa-4421-8f0a-cad82eac009e)
 
 ## About the Dataset
-The dataset was obtained from a user on Kaggle. (https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
+The dataset was obtained from a user on Kaggle. (https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 ## License
 MIT License
