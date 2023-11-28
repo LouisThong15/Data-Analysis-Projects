@@ -1,4 +1,4 @@
-# Visualizing Video Game Industry
+# Visualizing Streaming Application
 This project explores a dataset regarding a online streaming application for analysis and visualisation. 
 
 ## Demo
