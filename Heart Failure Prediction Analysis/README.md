@@ -1,4 +1,4 @@
-# Visualizing Video Game Industry
+# Visualizing Heart Disease 
 This project explores a dataset with information on patients with and without heart disease. The purpose of this is to try to predict the possibility of a heart disease in future patients. 
 
 ## Demo
