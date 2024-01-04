@@ -1,14 +1,14 @@
 # Visualizing Video Game Industry
-This project is to gain an insight into the video game industry by analysing a dataset and creating visualisations. 
+This project is to gain an insight into the medical insurance charges in the United States by analysing a dataset and creating visualisations. 
 
 ## Demo
 
-![image](https://github.com/LouisThong15/Data-Analysis-Project/assets/134668971/f16f8cf6-318a-4fc8-ac75-38a9cb36068e)
+![image](https://github.com/LouisThong15/Data-Analysis-Project/assets/134668971/fede38a1-1d4c-4d04-839a-029f47028400)
 
 
 
 ## About the Dataset
-The dataset was obtained from a user on Kaggle. (https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
+The dataset was obtained from a user on Kaggle. (https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download)
 
 ## License
 MIT License
