@@ -3,7 +3,7 @@ This project is to gain an insight into the biodiversity of various animals in 4
 
 ## Demo
 
-![image](https://github.com/LouisThong15/Data-Analysis-Projects/assets/134668971/282c94fb-8566-4a9d-9f94-d517227d9840)
+![image](https://github.com/LouisThong15/Data-Analysis-Projects/assets/134668971/fe685f53-b1dd-4331-9c0b-76c6eff48b09)
 
 
 
