@@ -1,4 +1,4 @@
-# Visualizing Video Game Industry
+# Visualizing Medical Insurance Data
 This project is to gain an insight into the medical insurance charges in the United States by analysing a dataset and creating visualisations. 
 
 ## Demo
