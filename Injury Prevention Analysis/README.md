@@ -1,4 +1,4 @@
-# Visualizing Anime 
+# Visualizing Injury Prevention 
 This project is an analysis on a player injury dataset to determine any trends to prevent further injuries.
 
 ## Demo
