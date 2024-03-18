@@ -1,5 +1,5 @@
 # Visualizing Anime 
-This project is to gain an insight into the anime industry and discover different varieties of anime.
+This project is an analysis on a player injury dataset to determine any trends to prevent further injuries.
 
 ## Demo
 
