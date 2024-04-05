@@ -3,8 +3,7 @@ This project is to gain an insight into the video game industry by analysing a d
 
 ## Demo
 
-![image](https://github.com/LouisThong15/Data-Analysis-Project/assets/134668971/f16f8cf6-318a-4fc8-ac75-38a9cb36068e)
-
+![image](https://github.com/LouisThong15/Data-Analysis-Projects/assets/134668971/3ff3bbd7-3919-4def-aced-15e9cc4a977e)
 
 
 ## About the Dataset
