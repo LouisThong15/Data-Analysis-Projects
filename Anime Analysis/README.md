@@ -3,8 +3,7 @@ This project is to gain an insight into the anime industry and discover differen
 
 ## Demo
 
-![image](https://github.com/LouisThong15/Data-Analysis-Projects/assets/134668971/d69e30b9-2cfb-463c-a4b4-e896988c1384)
-
+![image](https://github.com/LouisThong15/Data-Analysis-Projects/assets/134668971/060276d7-8fd2-49f6-a7a4-c75d2d2bf4d8)
 
 
 ## About the Dataset
