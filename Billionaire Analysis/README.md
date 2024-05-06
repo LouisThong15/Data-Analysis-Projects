@@ -1,4 +1,4 @@
-# Visualizing Biodiversity in National Parks
+# Visualizing Billionaire Dataset
 This project is to gain an insight into billionaires' wealth and industry as well as identify any possible trends/patterns among billionaires. 
 
 ## Demo
