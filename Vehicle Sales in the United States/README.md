@@ -1,5 +1,5 @@
 # Analysing Vehicle Sales in the U.S
-This project is to gain an insight into the vehicle industry and understand market dynamics
+This project is to gain an insight into the vehicle industry and understand market dynamics in the United States.
 
 ## Demo
 ![image](https://github.com/LouisThong15/Data-Analysis-Projects/assets/134668971/2a9422c7-f330-4b1b-a4d5-2ee84be1b5d4)
