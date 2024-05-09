@@ -2,7 +2,7 @@
 This project is to gain an insight into billionaires' wealth and industry as well as identify any possible trends/patterns among billionaires. 
 
 ## Demo
-![image](https://github.com/LouisThong15/Data-Analysis-Projects/assets/134668971/d6f752b3-ae07-4353-867f-e7261b0863a0)
+![image](https://github.com/LouisThong15/Data-Analysis-Projects/assets/134668971/f633a319-a5bb-48bc-9f9d-b446c59116e6)
 
 ## About the Dataset
 The dataset was provided by a user on Kaggle. (https://www.kaggle.com/datasets/javiersab/billionaires-dataset-cleaned)
