@@ -6,7 +6,7 @@ This project focuses on a Melbourne housing dataset and was used for data analys
 
 
 ## About the Dataset
-The dataset was obtained from a user on Kaggle. (https://www.kaggle.com/datasets/amirmahdiabbootalebi/salary-by-job-title-and-country)
+The dataset was obtained from a user on Kaggle. (https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot)
 
 ## License
 MIT License
