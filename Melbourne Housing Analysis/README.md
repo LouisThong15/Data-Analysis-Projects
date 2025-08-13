@@ -2,8 +2,7 @@
 This project focuses on a Melbourne housing dataset and was used for data analysis and machine learning prediction.
 
 ## Demo
-<img width="986" height="713" alt="image" src="https://github.com/user-attachments/assets/d4dea174-a062-49da-ad53-1964929de2c4" />
-
+<img width="986" height="572" alt="image" src="https://github.com/user-attachments/assets/a9aa0c99-e09a-4ce1-95a2-faeaea74251b" />
 
 ## About the Dataset
 The dataset was obtained from a user on Kaggle. (https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot)
