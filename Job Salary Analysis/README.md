@@ -1,5 +1,5 @@
 # Visualizing Job Salary 
-This project is to gain an insight into the job market and employment opportunities in the world by analysing a dataset. An attempt was made to determine trends and correlations to gain a better understanding into the market. 
+This project is to gain an insight into the job market and employment opportunities in the world by analysing a dataset. The purpose is to determine trends and correlations to gain a better understanding into the market. 
 
 ## Demo
 
