@@ -1,5 +1,5 @@
 # Visualizing Injury Prevention 
-This project is
+This project dives into a dataset that contains information on a cafe's sales. 
 
 ## Demo
 <img width="1014" height="480" alt="image" src="https://github.com/user-attachments/assets/6afec55a-2c7b-4287-8383-656a3e78454e" />
