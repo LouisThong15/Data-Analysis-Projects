@@ -1,14 +1,11 @@
 # Visualizing Job Salary 
-This project is to gain an insight into the job market and employment opportunities in the world by analysing a dataset. The purpose is to determine trends and correlations to gain a better understanding into the market. 
+This project focuses on a Melbourne housing dataset and was used for data analysis and machine learning prediction.
 
 ## Demo
-
-![image](https://github.com/LouisThong15/Data-Analysis-Project/assets/134668971/65d0a71c-f08d-4e17-8454-72c77e69a58f)
-
-
+<img width="986" height="572" alt="image" src="https://github.com/user-attachments/assets/a9aa0c99-e09a-4ce1-95a2-faeaea74251b" />
 
 ## About the Dataset
-The dataset was obtained from a user on Kaggle. (https://www.kaggle.com/datasets/amirmahdiabbootalebi/salary-by-job-title-and-country)
+The dataset was obtained from a user on Kaggle. (https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot)
 
 ## License
 MIT License
