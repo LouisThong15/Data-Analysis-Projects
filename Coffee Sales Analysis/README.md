@@ -1,4 +1,4 @@
-# Visualizing Injury Prevention 
+# Visualizing Coffee Sales
 This project dives into a dataset that contains information on a cafe's sales. 
 
 ## Demo
