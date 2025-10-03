@@ -1,7 +1,8 @@
 # Visualizing Coffee Sales
-This project dives into a dataset that contains information on a cafe's sales. 
+This project explores a dataset that contains information on Uber rides in certain parts of India. The purpose of this project is to analyze and identify trends and patterns. 
 
 ## Demo
+<img width="640" height="458" alt="image" src="https://github.com/user-attachments/assets/268de6d3-b6b6-426c-86e5-94fc7897dfb8" />
 
 
 
