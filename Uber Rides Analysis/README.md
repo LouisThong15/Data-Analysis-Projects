@@ -7,7 +7,7 @@ This project explores a dataset that contains information on Uber rides in certa
 
 
 ## About the Dataset
-The dataset was obtained from a user on Kaggle. https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset
+The dataset was obtained from a user on Kaggle. https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard
 
 
 ## License
